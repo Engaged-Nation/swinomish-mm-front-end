@@ -70,6 +70,6 @@ if ($clientDBName == 'swinomish-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=swinomish-mm&client_id=9beb2c53b184deb77e3fbf266f879ae3" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=swinomish-mm&client_id=beccca3574871a933bdbb7803703eeab" type="text/javascript"></script>
 </body>
 </html>
